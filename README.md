@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jdjr2024-markdownify-mcp-utf8-badge.png)](https://mseep.ai/app/jdjr2024-markdownify-mcp-utf8)
+
 # Markdownify MCP Server - UTF-8 Enhanced
 
 This is an enhanced version of the [original Markdownify MCP project](https://github.com/cursor-ai/markdownify-mcp), with improved UTF-8 encoding support and optimized handling of multilingual content.
